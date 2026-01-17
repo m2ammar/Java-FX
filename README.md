@@ -16,7 +16,6 @@ This repository contains **JavaFX GUI-based projects**, including a **Calculator
 ### Practice Exercises
 - Contains multiple **Java practice programs** for learning:
   - Loops, conditions, and basic logic
-  - Object-oriented programming concepts
   - File handling practice
   - Additional mini JavaFX GUI experiments
 
