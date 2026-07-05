@@ -13,6 +13,9 @@ This repository contains **JavaFX GUI-based projects**, including a **Calculator
   - Division (/)
 - Clear and intuitive user interface.
 
+![Calculator Screenshot](Calculator.png)
+![Calculator Screenshot 2](Calculator2.png)
+
 ### Practice Exercises
 - Contains multiple **Java practice programs** for learning:
   - Loops, conditions, and basic logic
